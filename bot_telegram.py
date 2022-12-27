@@ -13,7 +13,7 @@ from aiogram import Bot, types
 import os
 
 storage = MemoryStorage()
-bot = Bot(token='5508498603:AAG91bL7OyozDlqxNcE4j3of-GGzzoV04aQ')
+bot = Bot(token='5937294943:AAF__32hQvheNIGI8D3MiTr30HNhXm56oF8')
 dp = Dispatcher(bot, storage=storage)
 letter = " "
 word = " "
